@@ -3,3 +3,6 @@ Open the web-server database and create a new database name it scheduling_db.
 Import the SQL file located in the admin/database folder of the source code.
 Copy and paste the source code to the location where your local web server accessing your local projects. Example for XAMPP('C:\xampp\htdocs')
 Open a web browser and browse the project. E.g [http://localhost/school-faculty-scheduling-system] for the faculties side and [http://localhost/school-faculty-scheduling-system/admin] for the admin/staff side.
+ 
+Default username: admin
+Default password: admin123
